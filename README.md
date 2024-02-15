@@ -22,3 +22,10 @@ I use this repository for publishing my practice on Postman. I use the following
  <p>
 For each repository there is the respectivelly folder.
  </p>
+
+ <h2>How to work in each folder after having making an account to postiman.com site</h2>
+  <ol>
+     <li>Login,</li>
+     <li>Create a work space,</li>
+     <li>Withing the created work space create a collection.</li>
+ </ol>
